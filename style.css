@@ -1,6 +1,6 @@
 *{
     margin: 0;padding: 0;
 }
-p{ 
-    background-color: rgb(169, 255, 255);
+p{ color: blue;
+    background-color: rgb(175, 179, 179);
 }
